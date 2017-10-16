@@ -4,7 +4,7 @@
 $db_host = "localhost"; //Host address (most likely localhost)
 $db_name = "ew"; //Name of Database
 $db_user = "root"; //Name of database user
-$db_pass = "Yuelai063027"; //Password for database user
+$db_pass = ""; //Password for database user
 $db_table_prefix = ""; // if the table prefix exists use this variable as a global
 
 
